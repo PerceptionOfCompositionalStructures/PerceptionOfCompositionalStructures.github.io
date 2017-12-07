@@ -5,4 +5,11 @@ More stuff coming soon!
 
 see course syllabus [here](https://perceptionofcompositionalstructures.github.io/Docs/Syllabus.pdf)
 
-[Melodic Tension Experiment](https://melodictension-7fd48.firebaseapp.com/)
+## Final Group Experiments
+(Be patient! Some experiments may take a while to load in your browser!)
+
+1. [Haydn vs Mozart](https://perceptionofcompositionalstructures.github.io/haydnvsmozart/index.html)
+2. [Melodic Tension Experiment](https://melodictension-7fd48.firebaseapp.com/)
+3. [Perception of Melodic Similarity](https://perceptionofcompositionalstructures.github.io/atonalMelodicSimilarity/)
+4. Testing a Perceptual Model for Chordal Complexity
+5. Meter and Mystery Factor
