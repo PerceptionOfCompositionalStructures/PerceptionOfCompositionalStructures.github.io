@@ -19,7 +19,7 @@ Be patient! Some experiments may take a while to load in your browser! Be sure t
 For your interest, the final papers resulting from the above experiments are presented below.
 
 1. [Haydn vs Mozart](https://perceptionofcompositionalstructures.github.io/Docs/Group1_HaydnVsMozart_HengGoverRubino_Haydn_vs_Mozart.pdf)
-2. [Melodic Tension Experiment](https:/perceptionofcompositionalstructures.github.io/Docs/Group2_TensionInMelody_FinalProject_HuynhLedgerNapoles.pdf)
+2. [Melodic Tension Experiment](https://perceptionofcompositionalstructures.github.io/Docs/Group2_TensionInMelody_FinalProject_HuynhLedgerNapoles.pdf)
 3. [Perception of Melodic Similarity](https://perceptionofcompositionalstructures.github.io/Docs/Group3_MelodicSimilarity_AtallahColeDeReuse.pdf)
 4. [Chordal Complexity](https://perceptionofcompositionalstructures.github.io/Docs/Group4_ChordComplexity_Macnab-SeguinJuDuffy_Final.pdf)
 5. [Meter and Mysetery Factor](https://perceptionofcompositionalstructures.github.io/Docs/Group5_MeterAndMysteryGlenDaigleHejebri_FinalPaper.pdf)
