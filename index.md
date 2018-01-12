@@ -3,6 +3,7 @@
 
 
 see course syllabus [here](https://perceptionofcompositionalstructures.github.io/Docs/Syllabus.pdf)
+
 see course reading list [here](https://perceptionofcompositionalstructures.github.io/Docs/PCS_Biblio.pdf)
 
 ## Final Group Experiments
