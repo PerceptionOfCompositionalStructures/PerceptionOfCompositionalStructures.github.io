@@ -1,8 +1,15 @@
 # Welcome to the Perception of Compositional Structures webpage!
 ##              (MUTH654 / MUMT 615 / MUCO636)
 
+## Course Description
 
-see course syllabus [here](https://perceptionofcompositionalstructures.github.io/Docs/Syllabus.pdf)
+This course focuses on the interaction between music theory, compositional structure, and music perception.
+By critically comparing literature in music theory and music perception, we will investigate questions such as: What is the purpose  of a musical theory?
+What is the goal of a compositional framework?
+What aspects of musical structure can be perceived, and how do our perceptual capabilities relate to theoretical and compositional   objectives?
+Throughout the course we will return to these fundamental questions as they apply across various compositional paradigms (e.g., counterpoint, serial composition) and theories of musical organization (e.g., sonata theory, Schenkerian analysis, set theory).
+
+see complete course syllabus [here](https://perceptionofcompositionalstructures.github.io/Docs/Syllabus.pdf)
 
 see course reading list [here](https://perceptionofcompositionalstructures.github.io/Docs/PCS_Biblio.pdf)
 
